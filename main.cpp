@@ -7,6 +7,7 @@
 #include <algorithm>
 using namespace std;
 vector <string> v;
+//use -lwinmm on compiler command
 int main(){
 	DIR *dir;
 	struct dirent *ent;
